@@ -1,0 +1,15 @@
+                 root
+                 /   \
+                /     \
+               /       \
+            leftFirst  rightSecond
+            /           \
+           /             \
+          /              rightFourth
+        leftThird             /\
+                             /  \
+                            /    \
+                          lf     rf
+                         /         \
+                      llf           \
+                                    rrf
